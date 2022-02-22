@@ -1,3 +1,3 @@
 # Bootcamp Take Blip Wep Developer
 
-## repositório criado para acompanhamento do Bootcamp.
+Repositório criado para acompanhamento do Bootcamp.
